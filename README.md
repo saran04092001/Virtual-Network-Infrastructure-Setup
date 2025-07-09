@@ -1,7 +1,7 @@
 # Virtual-Network-Infrastructure-Setup
-**Inter-VLAN routing
-HSRP for gateway redundancy
-OSPF for dynamic routing
+**Inter-VLAN routing, 
+HSRP for gateway redundancy,
+OSPF for dynamic routing,
 NAT for internet access**
 
 **Site 1 (Delhi HQ)**
